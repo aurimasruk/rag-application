@@ -14,7 +14,7 @@ This is a Retrieval-Augmented Generation (RAG) application that processes PDF, W
 ## Setup
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/aurimasruk/rag-application.git
    ```
 
 2. Install dependencies:
