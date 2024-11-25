@@ -1,0 +1,14 @@
+# Exclude environment variables and sensitive files
+.env
+q.txt
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
